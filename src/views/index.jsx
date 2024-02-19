@@ -9,7 +9,7 @@ function Index() {
 	return (
 		<>
 		<div name='home' className="w-full h-full  bg-bgprim  flex flex-col items-center justify-center pt-20 selection:bg-primary selection:text-bgprim">
-			<main className="w-full h-full  bg-bgprim flex  items-center md:justify-center flex-wrap-reverse  px-4  xl:justify-between xl:pt-2 xl:pb-16">
+			<main className="w-full h-full  bg-bgprim flex  items-center md:justify-center flex-wrap  px-4  xl:justify-between xl:pt-2 xl:pb-16">
 				<div className="text-primary  font-poppins text-center xl:pb-4 xl:pl-[5rem] flex flex-col justify-start items-center xl:items-start ">
 					<div className="text-7xl pt-32 pb-4">Kadambini Trivedi,</div>
 					<TypeAnimation
